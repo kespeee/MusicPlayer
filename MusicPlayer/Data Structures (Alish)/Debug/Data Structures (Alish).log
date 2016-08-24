@@ -1,0 +1,21 @@
+﻿Build started 8/24/2016 10:23:00 AM.
+     1>Project "C:\Users\Alish\Documents\2 Semester\DSTR\Data Structures (Alish)\Data Structures (Alish)\Data Structures (Alish).vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\Data Structures (Alish).pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Data Structures (Alish).pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "Data Structures (Alish).cpp" List.cpp MusicPlayer.cpp
+         MusicPlayer.cpp
+         List.cpp
+         Data Structures (Alish).cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Alish\Documents\2 Semester\DSTR\Data Structures (Alish)\Debug\Data Structures (Alish).exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Alish\Documents\2 Semester\DSTR\Data Structures (Alish)\Debug\Data Structures (Alish).pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Alish\Documents\2 Semester\DSTR\Data Structures (Alish)\Debug\Data Structures (Alish).lib" /MACHINE:X86 "Debug\Data Structures (Alish).obj"
+         Debug\List.obj
+         Debug\MusicPlayer.obj
+         Debug\stdafx.obj
+         Data Structures (Alish).vcxproj -> C:\Users\Alish\Documents\2 Semester\DSTR\Data Structures (Alish)\Debug\Data Structures (Alish).exe
+     1>Done Building Project "C:\Users\Alish\Documents\2 Semester\DSTR\Data Structures (Alish)\Data Structures (Alish)\Data Structures (Alish).vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.89
